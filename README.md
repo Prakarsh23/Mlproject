@@ -14,5 +14,13 @@ Any future git pull command (with the current local branch checked-out),
 will attempt to bring in commits from the <remote-branch> into the current local branch)
 
 ## Setting up Setup.py
-This file is used to build the entire project as a package & deploy it
--e . automatically triggers the setup.py file to run whenever a new package gets added to requirements.txt
+-> This file is used to build the entire project as a package & deploy it
+-> -e . automatically triggers the setup.py file to run whenever a new package gets added to requirements.txt
+-> git add . will add all the files onto git
+
+## Project Structure
+
+-> Creating a Components folder to store different modules like data ingestion & data transformation
+
+
+
