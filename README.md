@@ -23,6 +23,10 @@ will attempt to bring in commits from the <remote-branch> into the current local
 -> Creating a Components folder to store different modules like data ingestion & data transformation
 
 
-##
+## DataIngestion
+
+-> python -m src.components.data_ingestion Used this to run the data ingestion file
+
+The -m flag in Python stands for the “module name.” When you pass the -m flag followed by a module name to the Python interpreter, it will locate the module and execute its content as the __main__ module. This allows you to run a module directly from the command line.
 
 
